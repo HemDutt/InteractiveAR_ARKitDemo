@@ -1,7 +1,7 @@
 # InteractiveAR_ARKitDemo
 
 Follow best practices for visual feedback, gesture interactions, and realistic rendering in AR experiences.
-![Screenshot](demo.mov)
+![Screenshot](Demo.gif)
 
 ## Overview
 
